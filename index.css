@@ -1,0 +1,22 @@
+.profile {
+  width: 200px;
+  position: absolute;
+  right: 50%;
+  height: 200px;
+  top: 150px;
+  background-size: cover;
+  background-position: center;
+  z-index: 5;
+  transform: translate(50%, -50%);
+  border-radius: 50% !important;
+  box-shadow: 0 15px 35px rgba(24, 24, 39, 0.404),
+    0 5px 15px rgba(0, 0, 0, 0.07);
+}
+
+h1 {
+  color: rgb(29%, 29%, 29%);
+}
+
+p {
+  color: #4a4a4a;
+}
