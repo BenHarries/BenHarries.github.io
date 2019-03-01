@@ -21,3 +21,8 @@ p.text-h3 {
   font-style: italic;
   color: #4a4a4a;
 }
+
+.bgimg {
+  background-image: url("./Images/Split.png");
+  background-size: 100% 100%;
+}
