@@ -17,6 +17,7 @@ h1 {
   color: rgb(29%, 29%, 29%);
 }
 
-p {
+p.text-h3 {
+  font-style: italic;
   color: #4a4a4a;
 }
