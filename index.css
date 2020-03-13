@@ -43,6 +43,42 @@ p.text-h3 {
 
 
 }
+
+@media (max-width: 575px) {
+
+  .container1 {
+    /* position: absolute; */
+    min-height: 400px;
+    width: 63%;
+    bottom: 10%;
+    display: flex;
+  
+  
+  }
+
+}
+
+@media (max-width: 575px) {
+
+  .card {
+   /* display: flex; */
+  width: 100%;
+
+  background-color: #FCFCFA;
+  border-radius: 10px;
+  box-shadow: 0rem 0 1rem #000;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 30%;
+
+  transition: 0.4s ease-out;
+  position: relative;
+
+  /* left: 0px; */
+  }
+
+}
+
 .projects-title {
 
     height: 100px;
@@ -62,6 +98,7 @@ p.text-h3 {
   border-radius: 10px;
   box-shadow: 0rem 0 1rem #000;
   margin-left: 30%;
+  margin-right: 30%;
 
   transition: 0.4s ease-out;
   position: relative;
